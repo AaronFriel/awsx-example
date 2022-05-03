@@ -1,0 +1,5 @@
+github.com/pulumi/pulumi-aws/sdk/v5 v5.3.0 h1:be0qFqKpS38eERDYDGRVJ/uX95CdV2u/by9aCP88c5U=
+github.com/pulumi/pulumi-aws/sdk/v5 v5.3.0/go.mod h1:5Bl3enkEyJD5oDkNZYfduZP7aP3xFjCf7yaBdNuifEo=
+github.com/pulumi/pulumi-aws/sdk/v5 v5.3.1-0.20220503083806-770b61635bb7 h1:O7c25UvacorclM9EMSyFOCeBWVKOLMI8XjDeGfOByos=
+github.com/pulumi/pulumi/sdk/v3 v3.30.0 h1:0X5gSUS3x82XzenpCCW8EdJrmOzoQqHSdQd0O6QSMQQ=
+github.com/pulumi/pulumi/sdk/v3 v3.30.0/go.mod h1:hGo/+AL1L4sPL9Ukd/i5bNFM3WHs3dHcA+GKEW7M3RA=
